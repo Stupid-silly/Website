@@ -21,6 +21,7 @@ jk bkbjhkjb  bjk
 现在国内已经可以正常访问，但是速度稍微有点慢，有各种各样的插件提速，但是确实不存在特别好的解决方案。首先需要`注册`一个github账号，这个教程就跳过吧，没啥好说的，直接从注册成功开始。成功后登录应该会出现这样的页面：
 
 ![登录成功页面](https://7475-tututong-1302752799.tcb.qcloud.la/MD%E5%9B%BE%E5%BA%8A/msedge_w0oNdFnwBm.png?sign=6b89a08919afff4c28955455086d8953&t=1596583587)
+![福尔摩斯探案集](https://img-blog.csdnimg.cn/20200810105803446.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80OTA5MDMxMQ==,size_16,color_FFFFFF,t_70)
 
 我们点击`your repositories(个人存储仓库)`进入；
 接着点击`New`新建一个个人仓库，只写名字`Repository name`，其他全部采用默认值，点击`creat`!
